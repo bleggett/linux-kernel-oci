@@ -1,4 +1,4 @@
-imageNameFormat: "ghcr.io/edera-dev/[image]:[tag]"
+imageNameFormat: "ghcr.io/bleggett/[image]:[tag]"
 architectures:
 - x86_64
 - aarch64
